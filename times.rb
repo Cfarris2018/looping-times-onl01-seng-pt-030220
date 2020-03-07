@@ -1,6 +1,6 @@
 
 7.times do
-  puts "Hello #{"Wingardium Leviosa"}"
+  puts "Wingardium Leviosa"
 end
 
 
