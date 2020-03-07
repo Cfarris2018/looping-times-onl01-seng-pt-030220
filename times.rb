@@ -1,7 +1,7 @@
 
-
+def using_times(phrase)
 7.times do
-  using_times= "wingardium Leviosa"
+  pharse= "wingardium Leviosa"
   puts "Hello #{"Wingardium Leviosa"}"
 end
 
