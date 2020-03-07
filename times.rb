@@ -1,7 +1,10 @@
-def using_times
-	#your code here
+using_times= "Wingardium Leviosa"
+
+7.times do
+  puts "Hello #{"Wingardium Leviosa"}"
+
 end
 
-
+ 
 
 
